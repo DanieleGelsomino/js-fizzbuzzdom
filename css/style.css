@@ -7,3 +7,28 @@
 body {
   font-family: "Montserrat", sans-serif;
 }
+
+.container {
+  width: 80%;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#title {
+  margin-top: 50px;
+  color: cadetblue;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.square-numbers {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(93, 142, 194);
+  vertical-align: middle;
+  line-height: 150px;
+  color: aliceblue;
+}
