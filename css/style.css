@@ -9,10 +9,12 @@ body {
 }
 
 .container {
-  width: 80%;
+  width: 900px;
   margin: 50px auto;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
 }
 
 #title {
@@ -25,7 +27,6 @@ body {
 .square-numbers {
   width: 150px;
   height: 150px;
-  margin: 5px;
   text-align: center;
   background-color: rgb(93, 142, 194);
   vertical-align: middle;
