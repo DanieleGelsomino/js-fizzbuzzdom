@@ -31,4 +31,20 @@ body {
   vertical-align: middle;
   line-height: 150px;
   color: aliceblue;
+  font-weight: 700;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  text-transform: uppercase;
+}
+
+#tomato {
+  color: rgb(244, 81, 30);
+}
+
+#green {
+  color: rgb(104, 206, 131);
+}
+
+#lilac {
+  color: rgb(196, 169, 240);
 }
